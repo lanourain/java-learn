@@ -12,6 +12,7 @@
     <modules>
         <module>core-java</module>
         <module>jcf</module>
+        <module>design-patterns</module>
     </modules>
 
     <dependencyManagement>
