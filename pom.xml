@@ -13,6 +13,8 @@
         <module>core-java</module>
         <module>jcf</module>
         <module>design-patterns</module>
+        <module>spring-in-action</module>
+        <module>jvm</module>
     </modules>
 
     <dependencyManagement>
